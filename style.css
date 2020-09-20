@@ -1,0 +1,16 @@
+body {
+    max-width: 1024px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul {
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+}
+
+li {
+    text-align: left;
+}
