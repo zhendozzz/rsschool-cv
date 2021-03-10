@@ -1,0 +1,25 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    text-align: center;
+    width: auto;
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    color: darkgray;
+}
+
+ul {
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+}
+
+li {
+    text-align: left;
+}
